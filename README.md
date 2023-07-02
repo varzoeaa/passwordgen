@@ -1,1 +1,2 @@
-# This is a password generator. vvv
+# This is a password generator using secrets module because it has a method which is more secure than the random()
+# Criteria's for the password:  at least one special character, one number and one uppercase letter
